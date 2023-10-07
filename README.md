@@ -1,10 +1,12 @@
 # Vinod_Store_Sales_Report
+![Screenshot (22)](https://github.com/vikashkr09/Vinod_Store_Sales_Report/assets/121419780/e05a6fa4-f81f-4c91-8cad-3a9f7473f816)
 
 Hi
 
 I am excited to share my Excel project, an " Sales Analysis Dashboard"
 
 🔖Objective:
+
 
 "Vinod store" wants to create an annual sales report for 2022. So that, Vinod can understand their customers and grow more sales in 2023.
 
